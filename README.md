@@ -8,4 +8,4 @@ A Kenyan entrepreneur has created an online cryptography course and would want t
 
 This project aims at analysing the dataset provided to help the enterpreneur identify which individuals are most likely to click her ads. This shall be accomplished using R programming language. Th data shall undergo preprocessing steps befor it undergoes univariate and bivariate analysis shall be performed on the dataset to achieve this set aim. 
 
-This repository contains the analysis, results conclusion and reccomdations pdf knitted in pdf format. 
+This repository contains the analysis, results conclusion and reccomdations knitted in pdf format. 

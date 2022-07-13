@@ -1,4 +1,4 @@
-# R basics
+# Targetted Advertising Analytical Project
 
 ## Problem tackled
 
